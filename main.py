@@ -1,3 +1,5 @@
+import problema1
+from alumnos import alumnos
 
 edad = 12
 
@@ -37,3 +39,11 @@ if __name__ == '__main__':
     print(lista1)
 
     print(lista1[3])
+
+    print()
+
+    problema1.suma_5_enteros()
+
+    print()
+
+    alumnos()
